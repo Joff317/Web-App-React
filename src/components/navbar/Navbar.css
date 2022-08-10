@@ -1,0 +1,15 @@
+.text-link {
+   color: inherit;
+   text-decoration: inherit;
+   color:#202020;
+   font-size: 25px;
+ }
+ 
+ .nav {
+   display: flex;
+   align-items: flex-end;
+   flex-direction: row;
+ }
+ ul {
+   list-style: none;
+ }
